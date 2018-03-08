@@ -3,7 +3,7 @@
     {
       "docset_name": "xref-ref-ppe",
       "build_source_folder": "xref-ppe",
-      "build_output_subfolder": "xref-ref-ppe",
+      "build_output_subfolder": "xref-ppe",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
