@@ -3,3 +3,7 @@
   universal_conceptual_toc: "/xref-ppe/conceptual/toc.json"
 - name: managedreference_testN
   href: ../managedreference_testN.yml
+- name: managedreference_testU
+  href: ../managedreference_testU.yml
+- name: managedreference_crossbranch_exist
+  href: ../managedreference_crossbranch_exist.yml
