@@ -12,7 +12,7 @@
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content",
-        "Data": "Content",
+        "ODataIndex": "Content",
         "UniversalReference": "Content"
       },
       "build_entry_point": "docs",
