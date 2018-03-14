@@ -7,19 +7,19 @@
   href: ../managedreference_testU.yml
 - name: managedreference_crossbranch_exist
   href: ../managedreference_crossbranch_exist.yml
-- name:universalreference_testN
+- name: universalreference_testN
   href: ../universalreference_testN.yml
 - name: universalreference_testU
   href: ../universalreference_testU.yml
 - name: universalreference_crossbranch_exist
   href: ../universalreference_crossbranch_exist.yml
-- name:sdp_testN
+- name: sdp_testN
   href: ../sdp_testN.yml
 - name: sdp_testU
   href: ../sdp_testU.yml
 - name: sdp_crossbranch_exist
   href: ../sdp_crossbranch_exist.yml
-- name:yamldocumentprocessor_testN
+- name: yamldocumentprocessor_testN
   href: ../yamldocumentprocessor_testN.yml
 - name: yamldocumentprocessor_testU
   href: ../yamldocumentprocessor_testU.yml
