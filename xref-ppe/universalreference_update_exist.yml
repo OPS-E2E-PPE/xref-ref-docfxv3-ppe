@@ -1,16 +1,16 @@
 ### YamlMime:ManagedReference
 items:
-- uid: universalreference_update_exist2_uid
-  commentId: N:universalreference_update_exist2_uid
-  id: universalreference_update_exist2_uid
+- uid: universalreference_update_exist1_uid
+  commentId: N:universalreference_update_exist1_uid
+  id: universalreference_update_exist1_uid
   children:
   - Microsoft.SqlServer.Server.SqlMetaData
   langs:
   - csharp
   - vb
-  name: universalreference_update_exist2_uid
-  nameWithType: universalreference_update_exist2_uid
-  fullName: universalreference_update_exist2_uid
+  name: universalreference_update_exist1_uid
+  nameWithType: universalreference_update_exist1_uid
+  fullName: universalreference_update_exist1_uid
   type: Namespace
   summary: "[content](content.md)"
   assemblies:
