@@ -1,16 +1,16 @@
 ### YamlMime:ManagedReference
 items:
-- uid: sdp_update_exist2_uid
-  commentId: N:sdp_update_exist2_uid
-  id: sdp_update_exist2_uid
+- uid: sdp_update_exist1_uid
+  commentId: N:sdp_update_exist1_uid
+  id: sdp_update_exist1_uid
   children:
   - Microsoft.SqlServer.Server.SqlMetaData
   langs:
   - csharp
   - vb
-  name: sdp_update_exist2_uid
-  nameWithType: sdp_update_exist2_uid
-  fullName: sdp_update_exist2_uid
+  name: sdp_update_exist1_uid
+  nameWithType: sdp_update_exist1_uid
+  fullName: sdp_update_exist1_uid
   type: Namespace
   summary: "[content](content.md)"
   assemblies:
